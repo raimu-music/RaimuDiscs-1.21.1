@@ -1,0 +1,10 @@
+{
+  "blue_dawn": {
+    "sounds": [
+      {
+        "name": "raimudiscsmod:blue_dawn",
+        "stream": true
+      }
+    ]
+  }
+}
