@@ -3,6 +3,6 @@
   "description": {
     "translate": "item.raimudiscsmod.blue_dawn_music_disc.desc"
   },
-  "lenght_in_seconds": 157.0,
+  "length_in_seconds": 157.0,
   "sound_event": "raimudiscsmod:blue_dawn"
 }
