@@ -1,6 +1,7 @@
 {
   "creativetab.raimudiscsmod.raimu_discs": "Raimu Discs",
 
+
   "item.raimudiscsmod.overgrown_disc": "§bRaimu Music Disc",
   "item.raimudiscsmod.overgrown_disc.desc": "Raimu - Overgrown",
   "item.raimudiscsmod.overgrown_fragment": "§bRaimu Disc Fragment",
@@ -25,6 +26,8 @@
   "painting.raimudiscsmod.kitsune_to_take_painting.author": "Ivan Ilko",
   "painting.raimudiscsmod.sons_of_the_dew_painting.title": "Sons of the Dew",
   "painting.raimudiscsmod.sons_of_the_dew_painting.author": "Surendra Rajawat",
+  "painting.raimudiscsmod.earthly_spirits_painting.title": "Earthly Spirits",
+  "painting.raimudiscsmod.earthly_spirits_painting.author": "Yi Lo",
   "painting.raimudiscsmod.meditative_flow_painting.title": "Meditative Flow",
   "painting.raimudiscsmod.meditative_flow_painting.author": "Yi Lo",
   "painting.raimudiscsmod.the_spirit_within_painting.title": "The Spirit Within",
