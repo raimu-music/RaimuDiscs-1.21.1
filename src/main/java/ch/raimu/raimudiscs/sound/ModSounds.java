@@ -24,7 +24,11 @@ public class ModSounds {
     public static final Supplier<SoundEvent> OVERGROWN = registerSoundEvent("overgrown");
     public static final ResourceKey<JukeboxSong> OVERGROWN_KEY = createSong("overgrown");
 
+    public static final Supplier<SoundEvent> NATSUKASHII = registerSoundEvent("natsukashii");
+    public static final ResourceKey<JukeboxSong> NATSUKASHII_KEY = createSong("natsukashii");
 
+    public static final Supplier<SoundEvent> KAZE_NI_NATTE = registerSoundEvent("kaze_ni_natte");
+    public static final ResourceKey<JukeboxSong> KAZE_NI_NATTE_KEY = createSong("kaze_ni_natte");
 
     private static ResourceKey<JukeboxSong> createSong(String name) {
         return ResourceKey.create(Registries.JUKEBOX_SONG, ResourceLocation.fromNamespaceAndPath(RaimuDiscsMod.MOD_ID, name));

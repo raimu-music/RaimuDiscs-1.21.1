@@ -15,5 +15,23 @@
         "stream": true
       }
     ]
+  },
+
+  "natsukashii": {
+    "sounds": [
+      {
+        "name": "raimudiscsmod:natsukashii",
+        "stream": true
+      }
+    ]
+  },
+
+  "kaze_ni_natte": {
+    "sounds": [
+      {
+        "name": "raimudiscsmod:kaze_ni_natte",
+        "stream": true
+      }
+    ]
   }
 }

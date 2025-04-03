@@ -60,12 +60,17 @@ public class RaimuDiscsMod
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
-            event.accept(ModItems.DISC_BLUE_DAWN);
             event.accept(ModItems.DISC_OVERGROWN);
+            event.accept(ModItems.DISC_BLUE_DAWN);
+            event.accept(ModItems.DISC_NATSUKASHII);
+            event.accept(ModItems.DISC_KAZE_NI_NATTE);
         }
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModItems.FRAGMENT_BLUE_DAWN);
             event.accept(ModItems.FRAGMENT_OVERGROWN);
+            event.accept(ModItems.FRAGMENT_BLUE_DAWN);
+            event.accept(ModItems.FRAGMENT_NATSUKASHII);
+            event.accept(ModItems.FRAGMENT_KAZE_NI_NATTE);
+
         }
 
     }

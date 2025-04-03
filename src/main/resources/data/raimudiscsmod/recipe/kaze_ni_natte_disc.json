@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "FFF",
+    "FFF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "raimudiscsmod:kaze_ni_natte_fragment"
+    }
+  },
+  "result": {
+    "id": "raimudiscsmod:kaze_ni_natte_disc",
+    "count": 1
+  }
+}

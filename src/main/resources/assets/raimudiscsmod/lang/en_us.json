@@ -1,11 +1,22 @@
 {
-  "item.raimudiscsmod.blue_dawn_disc": "§bRaimu Music Disc",
-  "item.raimudiscsmod.blue_dawn_disc.desc": "Raimu - Blue Dawn",
-  "item.raimudiscsmod.blue_dawn_fragment": "§bFragment of Raimu Disc",
-  "item.raimudiscsmod.blue_dawn_fragment.desc": "Seems it belongs to Meditative Flow!",
-
   "item.raimudiscsmod.overgrown_disc": "§bRaimu Music Disc",
   "item.raimudiscsmod.overgrown_disc.desc": "Raimu - Overgrown",
-  "item.raimudiscsmod.overgrown_fragment": "§bFragment of Raimu Disc",
-  "item.raimudiscsmod.overgrown_fragment.desc": "Seems it belongs to Sons of the Dew!"
+  "item.raimudiscsmod.overgrown_fragment": "§bRaimu Disc Fragment",
+  "tooltip.raimudiscsmod.overgrown_fragment.tooltip": "Seems it belongs to Sons of the Dew!",
+
+  "item.raimudiscsmod.blue_dawn_disc": "§bRaimu Music Disc",
+  "item.raimudiscsmod.blue_dawn_disc.desc": "Raimu - Blue Dawn",
+  "item.raimudiscsmod.blue_dawn_fragment": "§bRaimu Disc Fragment",
+  "tooltip.raimudiscsmod.blue_dawn_fragment.tooltip": "This might be from Meditative Flow!",
+
+  "item.raimudiscsmod.natsukashii_disc": "§bRaimu Music Disc",
+  "item.raimudiscsmod.natsukashii_disc.desc": "Raimu - Natsukashii",
+  "item.raimudiscsmod.natsukashii_fragment": "§bRaimu Disc Fragment",
+  "tooltip.raimudiscsmod.natsukashii_fragment.tooltip": "This could be from The Spirit Within..",
+
+  "item.raimudiscsmod.kaze_ni_natte_disc": "§bRaimu Music Disc",
+  "item.raimudiscsmod.kaze_ni_natte_disc.desc": "Raimu - Kaze Ni Natte",
+  "item.raimudiscsmod.kaze_ni_natte_fragment": "§bRaimu Disc Fragment",
+  "tooltip.raimudiscsmod.kaze_ni_natte_fragment.tooltip": "This is definitely a piece of Nature Inc.!"
+
 }
