@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "raimuroninsmod:item/blue_dawn"
+    "layer0": "raimudiscssmod:item/music_disc_blue_dawn"
   }
 }

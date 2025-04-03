@@ -12,7 +12,7 @@ public class ModItems {
 
 
 
-    public static final DeferredItem<Item> BLUE_DAWN_MUSIC_DISC = ITEMS.register("blue_dawn_music_disc",
+    public static final DeferredItem<Item> MUSIC_DISC_BLUE_DAWN = ITEMS.register("music_disc_blue_dawn",
             () -> new Item(new Item.Properties().jukeboxPlayable(ModSounds.BLUE_DAWN_KEY).stacksTo(1)));
 
 

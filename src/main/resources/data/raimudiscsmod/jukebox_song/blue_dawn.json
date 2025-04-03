@@ -1,7 +1,7 @@
 {
   "comparator_output": 15,
   "description": {
-    "translate": "item.raimudiscsmod.blue_dawn_music_disc.desc"
+    "translate": "item.raimudiscsmod.music_disc_blue_dawn.desc"
   },
   "length_in_seconds": 157.0,
   "sound_event": "raimudiscsmod:blue_dawn"
