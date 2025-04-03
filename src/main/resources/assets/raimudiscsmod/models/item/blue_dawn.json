@@ -1,8 +1,6 @@
 {
-  "comparator_output": 15,
-  "description": {
-    "translate": "item.raimudiscsmod.blue_dawn_music_disc.desc"
-  },
-  "length_in_seconds": 157.0,
-  "sound_event": "raimudiscsmod:blue_dawn"
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "raimuroninsmod:item/blue_dawn"
+  }
 }
