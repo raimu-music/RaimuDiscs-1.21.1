@@ -12,8 +12,10 @@ public class ModItems {
 
 
 
-    public static final DeferredItem<Item> MUSIC_DISC_BLUE_DAWN = ITEMS.register("music_disc_blue_dawn",
+    public static final DeferredItem<Item> DISC_BLUE_DAWN = ITEMS.register("blue_dawn",
             () -> new Item(new Item.Properties().jukeboxPlayable(ModSounds.BLUE_DAWN_KEY).stacksTo(1)));
+    public static final DeferredItem<Item> DISC_OVERGROWN = ITEMS.register("overgrown",
+            () -> new Item(new Item.Properties().jukeboxPlayable(ModSounds.OVERGROWN_KEY).stacksTo(1)));
 
 
 

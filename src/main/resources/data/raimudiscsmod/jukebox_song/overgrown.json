@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.raimudiscsmod.overgrown.desc"
+  },
+  "length_in_seconds": 147.0,
+  "sound_event": "raimudiscsmod:overgrown"
+}

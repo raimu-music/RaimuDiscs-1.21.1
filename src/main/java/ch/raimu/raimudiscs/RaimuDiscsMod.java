@@ -60,7 +60,8 @@ public class RaimuDiscsMod
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
-            event.accept(ModItems.MUSIC_DISC_BLUE_DAWN);
+            event.accept(ModItems.DISC_BLUE_DAWN);
+            event.accept(ModItems.DISC_OVERGROWN);
         }
 
     }

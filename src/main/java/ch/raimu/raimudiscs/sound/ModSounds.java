@@ -18,10 +18,13 @@ public class ModSounds {
 
 
 
-
-
     public static final Supplier<SoundEvent> BLUE_DAWN = registerSoundEvent("blue_dawn");
     public static final ResourceKey<JukeboxSong> BLUE_DAWN_KEY = createSong("blue_dawn");
+
+    public static final Supplier<SoundEvent> OVERGROWN = registerSoundEvent("overgrown");
+    public static final ResourceKey<JukeboxSong> OVERGROWN_KEY = createSong("overgrown");
+
+
 
     private static ResourceKey<JukeboxSong> createSong(String name) {
         return ResourceKey.create(Registries.JUKEBOX_SONG, ResourceLocation.fromNamespaceAndPath(RaimuDiscsMod.MOD_ID, name));
