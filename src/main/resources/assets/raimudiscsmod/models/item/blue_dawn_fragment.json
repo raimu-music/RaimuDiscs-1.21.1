@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "raimudiscsmod:item/blue_dawn_fragment"
+  }
+}

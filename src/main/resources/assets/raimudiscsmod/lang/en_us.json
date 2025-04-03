@@ -1,6 +1,11 @@
 {
-  "item.raimudiscsmod.blue_dawn": "§bRaimu Music Disc",
-  "item.raimudiscsmod.blue_dawn.desc": "Raimu - Blue Dawn",
-  "item.raimudiscsmod.overgrown": "§bRaimu Music Disc",
-  "item.raimudiscsmod.overgrown.desc": "Raimu - Overgrown"
+  "item.raimudiscsmod.blue_dawn_disc": "§bRaimu Music Disc",
+  "item.raimudiscsmod.blue_dawn_disc.desc": "Raimu - Blue Dawn",
+  "item.raimudiscsmod.blue_dawn_fragment": "§bFragment of Raimu Disc",
+  "item.raimudiscsmod.blue_dawn_fragment.desc": "Seems it belongs to Meditative Flow!",
+
+  "item.raimudiscsmod.overgrown_disc": "§bRaimu Music Disc",
+  "item.raimudiscsmod.overgrown_disc.desc": "Raimu - Overgrown",
+  "item.raimudiscsmod.overgrown_fragment": "§bFragment of Raimu Disc",
+  "item.raimudiscsmod.overgrown_fragment.desc": "Seems it belongs to Sons of the Dew!"
 }

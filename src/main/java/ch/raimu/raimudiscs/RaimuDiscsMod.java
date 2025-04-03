@@ -3,6 +3,7 @@ package ch.raimu.raimudiscs;
 import ch.raimu.raimudiscs.item.ModItems;
 import ch.raimu.raimudiscs.sound.ModSounds;
 import net.minecraft.world.item.CreativeModeTabs;
+import net.neoforged.fml.common.Mod;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -12,7 +13,6 @@ import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.common.EventBusSubscriber;
-import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.config.ModConfig;
 import net.neoforged.fml.event.lifecycle.FMLClientSetupEvent;
 import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
@@ -62,6 +62,10 @@ public class RaimuDiscsMod
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
             event.accept(ModItems.DISC_BLUE_DAWN);
             event.accept(ModItems.DISC_OVERGROWN);
+        }
+        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItems.FRAGMENT_BLUE_DAWN);
+            event.accept(ModItems.FRAGMENT_OVERGROWN);
         }
 
     }
