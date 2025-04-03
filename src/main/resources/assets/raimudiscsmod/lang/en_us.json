@@ -17,6 +17,17 @@
   "item.raimudiscsmod.kaze_ni_natte_disc": "§bRaimu Music Disc",
   "item.raimudiscsmod.kaze_ni_natte_disc.desc": "Raimu - Kaze Ni Natte",
   "item.raimudiscsmod.kaze_ni_natte_fragment": "§bRaimu Disc Fragment",
-  "tooltip.raimudiscsmod.kaze_ni_natte_fragment.tooltip": "This is definitely a piece of Nature Inc.!"
+  "tooltip.raimudiscsmod.kaze_ni_natte_fragment.tooltip": "This is definitely a piece of Nature Inc.!",
+
+  "painting.raimudiscsmod.kitsune_to_take_painting.title": "Kitsune To Take",
+  "painting.raimudiscsmod.kitsune_to_take_painting.author": "Ivan Ilko",
+  "painting.raimudiscsmod.sons_of_the_dew_painting.title": "Sons of the Dew",
+  "painting.raimudiscsmod.sons_of_the_dew_painting.author": "Surendra Rajawat",
+  "painting.raimudiscsmod.meditative_flow_painting.title": "Meditative Flow",
+  "painting.raimudiscsmod.meditative_flow_painting.author": "Yi Lo",
+  "painting.raimudiscsmod.the_spirit_within_painting.title": "The Spirit Within",
+  "painting.raimudiscsmod.the_spirit_within_painting.author": "Yi Lo",
+  "painting.raimudiscsmod.nature_inc_painting.title": "Nature Inc.",
+  "painting.raimudiscsmod.nature_inc_painting.author": "Yi Lo"
 
 }
