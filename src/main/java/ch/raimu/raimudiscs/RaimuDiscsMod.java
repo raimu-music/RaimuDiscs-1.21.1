@@ -1,5 +1,6 @@
 package ch.raimu.raimudiscs;
 
+import ch.raimu.raimudiscs.item.ModCreativeModeTabs;
 import ch.raimu.raimudiscs.item.ModItems;
 import ch.raimu.raimudiscs.sound.ModSounds;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -40,6 +41,7 @@ public class RaimuDiscsMod
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
         ModSounds.register(modEventBus);
