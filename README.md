@@ -17,4 +17,5 @@ General Guidelines & other things
 The content of this project is licensed as follows:
 - The source code used to create and run the mod is licensed under the MIT license.
 - The music and artworks associated with this mod are protected under All Rights Reserved. You may not use, copy, distribute, or alter any music or artworks without explicit permission from the copyright holder.
+
 You can check the full [License](LICENSE.md) here.
