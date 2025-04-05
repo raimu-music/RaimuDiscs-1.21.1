@@ -26,7 +26,7 @@ SOFTWARE.
 The music and artwork included in this project are protected under All Rights
 Reserved. You are not allowed to copy, distribute, modify, or use the music
 or artwork in any form without explicit written permission from the copyright
-holder. Unauthorized use of the music or artwork is strictly prohibited.
+holder(s). Unauthorized use of the music or artwork is strictly prohibited.
 
 The music and artwork are not covered by the MIT License, and all rights
-related to the music and artwork are reserved by the copyright holder.
+related to the music and artwork are reserved by the copyright holder(s).

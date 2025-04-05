@@ -2,25 +2,40 @@
   "creativetab.raimudiscsmod.raimu_discs": "Raimu Discs",
 
 
+  "item.raimudiscsmod.dandelions_lullaby_disc": "§bRaimu Music Disc",
+  "item.raimudiscsmod.dandelions_lullaby_disc.desc": "Raimu - Dandelion's Lulllaby",
+  "item.raimudiscsmod.dandelions_lullaby_fragment": "§bRaimu Disc Fragment",
+  "tooltip.raimudiscsmod.dandelions_lullaby_fragment.tooltip": "Music Disc - Dandelion's Lulllaby",
+
+  "item.raimudiscsmod.nap_time_in_shibuya_disc": "§bRaimu Music Disc",
+  "item.raimudiscsmod.nap_time_in_shibuya_disc.desc": "Raimu - Nap Time in Shibuya",
+  "item.raimudiscsmod.nap_time_in_shibuya_fragment": "§bRaimu Disc Fragment",
+  "tooltip.raimudiscsmod.nap_time_in_shibuya_fragment.tooltip": "Music Disc - Nap Time in Shibuya",
+
   "item.raimudiscsmod.overgrown_disc": "§bRaimu Music Disc",
   "item.raimudiscsmod.overgrown_disc.desc": "Raimu - Overgrown",
   "item.raimudiscsmod.overgrown_fragment": "§bRaimu Disc Fragment",
-  "tooltip.raimudiscsmod.overgrown_fragment.tooltip": "Seems it belongs to Sons of the Dew!",
+  "tooltip.raimudiscsmod.overgrown_fragment.tooltip": "Music Disc - Overgrown",
+
+  "item.raimudiscsmod.earth_calling_disc": "§bRaimu Music Disc",
+  "item.raimudiscsmod.earth_calling_disc.desc": "Raimu - Earth Calling",
+  "item.raimudiscsmod.earth_calling_fragment": "§bRaimu Disc Fragment",
+  "tooltip.raimudiscsmod.earth_calling_fragment.tooltip": "Music Disc - Earth Calling",
 
   "item.raimudiscsmod.blue_dawn_disc": "§bRaimu Music Disc",
   "item.raimudiscsmod.blue_dawn_disc.desc": "Raimu - Blue Dawn",
   "item.raimudiscsmod.blue_dawn_fragment": "§bRaimu Disc Fragment",
-  "tooltip.raimudiscsmod.blue_dawn_fragment.tooltip": "This might be from Meditative Flow!",
+  "tooltip.raimudiscsmod.blue_dawn_fragment.tooltip": "Music Disc - Blue Dawn",
 
   "item.raimudiscsmod.natsukashii_disc": "§bRaimu Music Disc",
   "item.raimudiscsmod.natsukashii_disc.desc": "Raimu - Natsukashii",
   "item.raimudiscsmod.natsukashii_fragment": "§bRaimu Disc Fragment",
-  "tooltip.raimudiscsmod.natsukashii_fragment.tooltip": "This could be from The Spirit Within..",
+  "tooltip.raimudiscsmod.natsukashii_fragment.tooltip": "Music Disc - Natsukashii",
 
   "item.raimudiscsmod.kaze_ni_natte_disc": "§bRaimu Music Disc",
   "item.raimudiscsmod.kaze_ni_natte_disc.desc": "Raimu - Kaze Ni Natte",
   "item.raimudiscsmod.kaze_ni_natte_fragment": "§bRaimu Disc Fragment",
-  "tooltip.raimudiscsmod.kaze_ni_natte_fragment.tooltip": "This is definitely a piece of Nature Inc.!",
+  "tooltip.raimudiscsmod.kaze_ni_natte_fragment.tooltip": "Music Disc - Kaze Ni Natte",
 
   "painting.raimudiscsmod.kitsune_to_take_painting.title": "Kitsune To Take",
   "painting.raimudiscsmod.kitsune_to_take_painting.author": "Ivan Ilko",

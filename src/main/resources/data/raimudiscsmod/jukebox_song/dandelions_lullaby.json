@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.raimudiscsmod.dandelions_lullaby_disc.desc"
+  },
+  "length_in_seconds": 123.0,
+  "sound_event": "raimudiscsmod:dandelions_lullaby"
+}

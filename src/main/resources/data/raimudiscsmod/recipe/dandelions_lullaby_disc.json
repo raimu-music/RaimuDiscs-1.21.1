@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "FFF",
+    "FFF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "raimudiscsmod:dandelions_lullaby_fragment"
+    }
+  },
+  "result": {
+    "id": "raimudiscsmod:dandelions_lullaby_disc",
+    "count": 1
+  }
+}

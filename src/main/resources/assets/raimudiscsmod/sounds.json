@@ -33,5 +33,29 @@
         "stream": true
       }
     ]
+  },
+  "dandelions_lullaby": {
+    "sounds": [
+      {
+        "name": "raimudiscsmod:dandelions_lullaby",
+        "stream": true
+      }
+    ]
+  },
+  "earth_calling": {
+    "sounds": [
+      {
+        "name": "raimudiscsmod:earth_calling",
+        "stream": true
+      }
+    ]
+  },
+  "nap_time_in_shibuya": {
+    "sounds": [
+      {
+        "name": "raimudiscsmod:nap_time_in_shibuya",
+        "stream": true
+      }
+    ]
   }
 }

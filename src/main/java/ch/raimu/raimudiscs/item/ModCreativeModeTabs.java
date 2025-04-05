@@ -19,12 +19,18 @@ public class ModCreativeModeTabs {
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.DISC_BLUE_DAWN.get()))
                     .title(Component.translatable("creativetab.raimudiscsmod.raimu_discs"))
                     .displayItems((itemDisplayParameters, output) -> {
+                        output.accept(ModItems.DISC_DANDELIONS_LULLABY);
+                        output.accept(ModItems.DISC_NAP_TIME_IN_SHIBUYA);
                         output.accept(ModItems.DISC_OVERGROWN);
+                        output.accept(ModItems.DISC_EARTH_CALLING);
                         output.accept(ModItems.DISC_BLUE_DAWN);
                         output.accept(ModItems.DISC_NATSUKASHII);
                         output.accept(ModItems.DISC_KAZE_NI_NATTE);
 
+                        output.accept(ModItems.FRAGMENT_DANDELIONS_LULLABY);
+                        output.accept(ModItems.FRAGMENT_NAP_TIME_IN_SHIBUYA);
                         output.accept(ModItems.FRAGMENT_OVERGROWN);
+                        output.accept(ModItems.FRAGMENT_EARTH_CALLING);
                         output.accept(ModItems.FRAGMENT_BLUE_DAWN);
                         output.accept(ModItems.FRAGMENT_NATSUKASHII);
                         output.accept(ModItems.FRAGMENT_KAZE_NI_NATTE);

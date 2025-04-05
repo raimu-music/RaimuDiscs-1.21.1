@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.raimudiscsmod.nap_time_in_shibuya_disc.desc"
+  },
+  "length_in_seconds": 184.0,
+  "sound_event": "raimudiscsmod:nap_time_in_shibuya"
+}

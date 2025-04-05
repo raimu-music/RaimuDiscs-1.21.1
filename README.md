@@ -5,17 +5,33 @@
 <a href="https://discord.gg/HR73gbQ"><img src="https://img.shields.io/discord/735664091045036073.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge" alt="" width="129" height="28"/></a>
 
 # Raimu's Discs and Arts
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/raimu-discs-and-arts)
 
-
+[Website](https://raimu.ch)
 
 ## General
-General Guidelines & other things
+
+**List of Songs**:
+* Raimu - Dandelion's Lullaby
+* Raimu - Nap Time in Shibuya
+* Raimu - Overgrown
+* Raimu - Earth Calling
+* Raimu - Blue Dawn
+* Raimu - Natsukashii
+* Raimu - Kaze Ni Natte
+
+**List of Artworks**:
+* Kitsune To Take (Ivan Ilko)
+* Sons of the Dew (Surendra Rajawat)
+* Meditative Flow (Yi Lo)
+* The Spirit Within (Yi Lo)
+* Nature Inc. (Yi Lo)
 
 
 ## License
 
 The content of this project is licensed as follows:
 - The source code used to create and run the mod is licensed under the MIT license.
-- The music and artworks associated with this mod are protected under All Rights Reserved. You may not use, copy, distribute, or alter any music or artworks without explicit permission from the copyright holder.
+- The music and artworks associated with this mod are protected under All Rights Reserved. You may not use, copy, distribute, or alter any music or artworks without explicit permission from the copyright holder(s).
 
 You can check the full [License](LICENSE.md) here.

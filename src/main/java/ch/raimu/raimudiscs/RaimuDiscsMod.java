@@ -62,16 +62,23 @@ public class RaimuDiscsMod
     // TO DO ->  ADD KITSUNE & EARTHLY DISCS
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
+            event.accept(ModItems.DISC_DANDELIONS_LULLABY);
+            event.accept(ModItems.DISC_NAP_TIME_IN_SHIBUYA);
             event.accept(ModItems.DISC_OVERGROWN);
+            event.accept(ModItems.DISC_EARTH_CALLING);
             event.accept(ModItems.DISC_BLUE_DAWN);
             event.accept(ModItems.DISC_NATSUKASHII);
             event.accept(ModItems.DISC_KAZE_NI_NATTE);
         }
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItems.FRAGMENT_DANDELIONS_LULLABY);
+            event.accept(ModItems.FRAGMENT_NAP_TIME_IN_SHIBUYA);
             event.accept(ModItems.FRAGMENT_OVERGROWN);
+            event.accept(ModItems.FRAGMENT_EARTH_CALLING);
             event.accept(ModItems.FRAGMENT_BLUE_DAWN);
             event.accept(ModItems.FRAGMENT_NATSUKASHII);
             event.accept(ModItems.FRAGMENT_KAZE_NI_NATTE);
+
 
         }
 

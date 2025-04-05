@@ -30,6 +30,15 @@ public class ModSounds {
     public static final Supplier<SoundEvent> KAZE_NI_NATTE = registerSoundEvent("kaze_ni_natte");
     public static final ResourceKey<JukeboxSong> KAZE_NI_NATTE_KEY = createSong("kaze_ni_natte");
 
+    public static final Supplier<SoundEvent> DANDELIONS_LULLABY = registerSoundEvent("dandelions_lullaby");
+    public static final ResourceKey<JukeboxSong> DANDELIONS_LULLABY_KEY = createSong("dandelions_lullaby");
+
+    public static final Supplier<SoundEvent> NAP_TIME_IN_SHIBUYA = registerSoundEvent("nap_time_in_shibuya");
+    public static final ResourceKey<JukeboxSong> NAP_TIME_IN_SHIBUYA_KEY = createSong("nap_time_in_shibuya");
+
+    public static final Supplier<SoundEvent> EARTH_CALLING = registerSoundEvent("earth_calling");
+    public static final ResourceKey<JukeboxSong> EARTH_CALLING_KEY = createSong("earth_calling");
+
     private static ResourceKey<JukeboxSong> createSong(String name) {
         return ResourceKey.create(Registries.JUKEBOX_SONG, ResourceLocation.fromNamespaceAndPath(RaimuDiscsMod.MOD_ID, name));
 
