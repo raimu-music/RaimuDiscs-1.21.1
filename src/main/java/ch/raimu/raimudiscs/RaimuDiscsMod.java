@@ -59,7 +59,6 @@ public class RaimuDiscsMod
 
     }
 
-    // TO DO ->  ADD KITSUNE & EARTHLY DISCS
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
             event.accept(ModItems.DISC_DANDELIONS_LULLABY);
