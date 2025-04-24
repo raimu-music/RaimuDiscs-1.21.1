@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "raimudiscsmod:item/nap_time_in_shibuya_fragment"
-  }
-}

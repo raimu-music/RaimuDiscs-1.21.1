@@ -21,6 +21,7 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.DISC_DANDELIONS_LULLABY);
                         output.accept(ModItems.DISC_NAP_TIME_IN_SHIBUYA);
+                        output.accept(ModItems.DISC_FLUID_MIND);
                         output.accept(ModItems.DISC_OVERGROWN);
                         output.accept(ModItems.DISC_EARTH_CALLING);
                         output.accept(ModItems.DISC_BLUE_DAWN);
@@ -29,11 +30,13 @@ public class ModCreativeModeTabs {
 
                         output.accept(ModItems.FRAGMENT_DANDELIONS_LULLABY);
                         output.accept(ModItems.FRAGMENT_NAP_TIME_IN_SHIBUYA);
+                        output.accept(ModItems.FRAGMENT_FLUID_MIND);
                         output.accept(ModItems.FRAGMENT_OVERGROWN);
                         output.accept(ModItems.FRAGMENT_EARTH_CALLING);
                         output.accept(ModItems.FRAGMENT_BLUE_DAWN);
                         output.accept(ModItems.FRAGMENT_NATSUKASHII);
                         output.accept(ModItems.FRAGMENT_KAZE_NI_NATTE);
+
                     }).build());
 
     public static void register (IEventBus eventBus) {

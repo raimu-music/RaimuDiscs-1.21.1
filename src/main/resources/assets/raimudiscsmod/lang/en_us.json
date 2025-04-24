@@ -12,6 +12,11 @@
   "item.raimudiscsmod.nap_time_in_shibuya_fragment": "§bRaimu Disc Fragment",
   "tooltip.raimudiscsmod.nap_time_in_shibuya_fragment.tooltip": "Music Disc - Nap Time in Shibuya",
 
+  "item.raimudiscsmod.fluid_mind_disc": "§bRaimu Music Disc",
+  "item.raimudiscsmod.fluid_mind_disc.desc": "Raimu - Fluid Mind",
+  "item.raimudiscsmod.fluid_mind_fragment": "§bRaimu Disc Fragment",
+  "tooltip.raimudiscsmod.fluid_mind_fragment.tooltip": "Music Disc - Fluid Mind",
+
   "item.raimudiscsmod.overgrown_disc": "§bRaimu Music Disc",
   "item.raimudiscsmod.overgrown_disc.desc": "Raimu - Overgrown",
   "item.raimudiscsmod.overgrown_fragment": "§bRaimu Disc Fragment",
@@ -48,6 +53,7 @@
   "painting.raimudiscsmod.the_spirit_within_painting.title": "The Spirit Within",
   "painting.raimudiscsmod.the_spirit_within_painting.author": "Yi Lo",
   "painting.raimudiscsmod.nature_inc_painting.title": "Nature Inc.",
-  "painting.raimudiscsmod.nature_inc_painting.author": "Yi Lo"
+  "painting.raimudiscsmod.nature_inc_painting.author": "Yi Lo",
 
+  "item.raimudiscsmod.raimu_logo": "§aRaimu Logo"
 }

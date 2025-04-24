@@ -57,5 +57,13 @@
         "stream": true
       }
     ]
+  },
+  "fluid_mind": {
+    "sounds": [
+      {
+        "name": "raimudiscsmod:fluid_mind",
+        "stream": true
+      }
+    ]
   }
 }

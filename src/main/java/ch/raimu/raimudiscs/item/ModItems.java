@@ -32,6 +32,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().jukeboxPlayable(ModSounds.NAP_TIME_IN_SHIBUYA_KEY).stacksTo(1)));
     public static final DeferredItem<Item> DISC_EARTH_CALLING = ITEMS.register("earth_calling_disc",
             () -> new Item(new Item.Properties().jukeboxPlayable(ModSounds.EARTH_CALLING_KEY).stacksTo(1)));
+    public static final DeferredItem<Item> DISC_FLUID_MIND = ITEMS.register("fluid_mind_disc",
+            () -> new Item(new Item.Properties().jukeboxPlayable(ModSounds.FLUID_MIND_KEY).stacksTo(1)));
 
 
     public static final DeferredItem<Item> FRAGMENT_OVERGROWN = ITEMS.register("overgrown_fragment",
@@ -87,6 +89,14 @@ public class ModItems {
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
                     tooltipComponents.add(Component.translatable("tooltip.raimudiscsmod.earth_calling_fragment.tooltip"));
+                    super.appendHoverText(stack, context, tooltipComponents, tooltipFlag);
+                }
+            });
+    public static final DeferredItem<Item> FRAGMENT_FLUID_MIND = ITEMS.register("fluid_mind_fragment",
+            () -> new Item(new Item.Properties()){
+                @Override
+                public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
+                    tooltipComponents.add(Component.translatable("tooltip.raimudiscsmod.fluid_mind_fragment.tooltip"));
                     super.appendHoverText(stack, context, tooltipComponents, tooltipFlag);
                 }
             });

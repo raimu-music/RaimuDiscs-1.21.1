@@ -39,6 +39,9 @@ public class ModSounds {
     public static final Supplier<SoundEvent> EARTH_CALLING = registerSoundEvent("earth_calling");
     public static final ResourceKey<JukeboxSong> EARTH_CALLING_KEY = createSong("earth_calling");
 
+    public static final Supplier<SoundEvent> FLUID_MIND = registerSoundEvent("fluid_mind");
+    public static final ResourceKey<JukeboxSong> FLUID_MIND_KEY = createSong("fluid_mind");
+
     private static ResourceKey<JukeboxSong> createSong(String name) {
         return ResourceKey.create(Registries.JUKEBOX_SONG, ResourceLocation.fromNamespaceAndPath(RaimuDiscsMod.MOD_ID, name));
 
